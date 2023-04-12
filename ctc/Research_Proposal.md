@@ -1,6 +1,8 @@
 # Research Proposal: 
 ## Using AI and ML to Study the Likelihood of Time-Travel using Closed Timelike Curves
 
+Oliver Ellison, MS SD
+
 ## Background and Motivation
 
 The concept of time-travel has been a subject of fascination and speculation for centuries, inspiring countless works of science fiction. In recent years, advances in physics have led to the exploration of closed timelike curves (CTCs), which could theoretically allow for time-travel. However, the possibility of CTCs and time-travel raises many questions and paradoxes that have yet to be fully understood.
