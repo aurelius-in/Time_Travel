@@ -1,5 +1,7 @@
 # Methodology for Using AI and ML Techniques to Study the Likelihood of Possible Time Travel Using Closed Timelike Curves
 
+### Oliver Ellison, MS SD
+
 ## Introduction
 In this methodology paper, we describe the steps we took to use AI and ML techniques to study the likelihood of possible time travel using closed timelike curves (CTCs). Our research aims to explore the theoretical possibility of time travel by investigating the plausibility of CTCs and their potential impact on the nature of causality.
 
