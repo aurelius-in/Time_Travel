@@ -1,5 +1,7 @@
 # Literature Review: Closed Timelike Curves and Time-Travel and Related AI and ML Research
 
+### Oliver Ellison, MS SD
+
 ## Introduction
 
 The concept of time-travel has long been a subject of fascination and speculation in both popular culture and scientific research. Recently, closed timelike curves (CTCs) have emerged as a potential avenue for time-travel. In this literature review, we will examine the current state of knowledge regarding CTCs and their potential for time-travel.
