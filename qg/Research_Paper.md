@@ -1,5 +1,7 @@
 # Studying Quantum Gravity with AI & ML to Understand the Possibility of Time Travel
 
+### Oliver Ellison, MS SD
+
 ## Abstract
 
 This research paper aims to explore the relationship between quantum gravity and time travel using AI and ML techniques. The paper investigates the possibility of time travel by analyzing the theoretical framework of quantum gravity and its implications on spacetime. 
