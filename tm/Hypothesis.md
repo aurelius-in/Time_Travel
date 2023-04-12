@@ -1,4 +1,4 @@
-## Conclusion 
+## Hypothesis 
 
 Oliver Ellison, MS SD
 
