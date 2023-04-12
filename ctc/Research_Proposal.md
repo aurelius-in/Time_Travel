@@ -1,4 +1,5 @@
-# Research Proposal: Using AI and ML to Study the Likelihood of Time-Travel using Closed Timelike Curves
+# Research Proposal: 
+## Using AI and ML to Study the Likelihood of Time-Travel using Closed Timelike Curves
 
 ## Background and Motivation
 
